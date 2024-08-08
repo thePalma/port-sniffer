@@ -26,3 +26,7 @@ This will create an executable in the `target\release` directory.
 ```bash
 cargo run -- -h
 ```
+
+### License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
